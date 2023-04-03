@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Forestry Bar</title>
-    <link>http://forstrybar.github.io/categories/</link>
+    <link>http://forestrybar.github.io/categories/</link>
     <description>Recent content in Categories on Forestry Bar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://forstrybar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://forestrybar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Menu</title>
-      <link>http://forstrybar.github.io/posts/menu/</link>
+      <link>http://forestrybar.github.io/posts/menu/</link>
       <pubDate>Sun, 02 Apr 2023 11:10:35 +0800</pubDate>
       
-      <guid>http://forstrybar.github.io/posts/menu/</guid>
+      <guid>http://forestrybar.github.io/posts/menu/</guid>
       <description>&lt;h2 id=&#34;drinks-caption&#34;&gt;Drinks&amp;rsquo; Caption&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;For customers who can not read/speak Mandarin, we supply English service, ask barman for help&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
